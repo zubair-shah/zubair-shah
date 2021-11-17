@@ -4,7 +4,6 @@ About Me 🚀
 🎓 I’m a web developer enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
 👨‍💻 I am passionate about computer vision, Web Dev, Machine Learning, DevOps & I enjoy learning new things.
 
-My Experiences 🙌
 
 Skills 🎓
 Responsive web Designing using Html css and bootstrap
