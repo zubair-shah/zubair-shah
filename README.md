@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Zubair Shaikh!
 
-<a href="https://www.linkedin.com/in/qasim-hassan/">
+<a href="https://www.linkedin.com/in/zubair-shaikh-2603871b0/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="mailto:shahzubair269@gmail.com">
