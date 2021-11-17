@@ -3,17 +3,17 @@
 <a href="https://www.linkedin.com/in/qasim-hassan/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="mailto:qasimhassan1020@gmail.com">
+<a href="mailto:shahzubair269@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://qasim1020.medium.com/">
+<!-- <a href="https://qasim1020.medium.com/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+</a> -->
 
 <br />
 
 ### About Me 🚀
-🎓 I’m an Data Science enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
+🎓 I’m a Web Developer enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about computer vision, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
