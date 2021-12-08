@@ -15,10 +15,10 @@
 ### About Me 🚀
 🎓 I’m a Web Developer enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about computer vision, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
-
+<!--
 ### My Experiences 🙌
 
-- [Lead Pakistan Chapter](https://omdena.com/omdena-chapter-page-pakistan/) - Under the vision to establish an ecosystem to educate human resources & remove technology gap from Pakistan become lead of [Omdena Pakistan Chapter](https://www.facebook.com/OmdenaPK/).
+ - [Lead Pakistan Chapter](https://omdena.com/omdena-chapter-page-pakistan/) - Under the vision to establish an ecosystem to educate human resources & remove technology gap from Pakistan become lead of [Omdena Pakistan Chapter](https://www.facebook.com/OmdenaPK/).
 - [Jr.Machine Learning Engineer](https://omdena.com/) - Jr. Machine Learning Engineer at world's #1 platform for building Artificial Intelligence i:e [Omdena](https://omdena.com/) with 20,000+ collaborators from different places around the world.
 - [Jr.Data Scientist ](https://www.linkedin.com/company/aisol-ai-solutions/) -AISOL was a startup form providing Artficial Intellgence Services and I served as Jr.Data Scientist on different Projects.
 - Ambassador at [Data Science Journey Pakistan](https://www.linkedin.com/company/data-science-journey-pakistan/) - served as Ambassador to promote Data Science in Pakistan through  variety of valuable courses related to Data Science.
@@ -37,7 +37,7 @@
 - Predictive Analytics/Machine Learning (Supervised/Unsupervised) using <strong>Scikit-Learn</strong> and <strong>PyCaret</strong>.
 - Deep Learning  with <strong>TensorFlow</strong>.
 - Amazon Web Service (AWS) using  <strong>Sagemaker</strong>.
-- Backend Development using <strong>Django</strong> and <strong>Flask</strong>.
+- Backend Development using <strong>Django</strong> and <strong>Flask</strong>. -->
 
 
 
