@@ -13,8 +13,8 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m a Web Developer enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about computer vision, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+🎓 I’m a Software Engineer enthusiast & a junior MERN Stack Developer pursuing my Bachelors in Computer Science & Engineering. </br>
+👨‍💻  I am passionate about computer vision, Web Dev, Machine Learning, Cloud Computing and IoT projects and also always learning new things
 <!--
 ### My Experiences 🙌
 
@@ -28,16 +28,14 @@
 ### Honors & Awards 🏅
 -  Selected as 1 of 500 recipients for the [Deep learning Scholarship](https://www.udacity.com/bertelsmann-tech-scholarships) designed to upskill professionals interested in using emerging Deep Learning technologies to enhance their organization's IT infrastructure.
 -  Selected as 1 of 500 recipients for the [Intel® Edge AI Scholarship Program](https://www.udacity.com/scholarships/intel-edge-ai-scholarship) designed to upskill professionals interested in using Intel® Edge technologies.
-
+-->
 ### Skills 🎓
-- Microsoft Certified <strong>python</strong> programmer.
-- Data Extraction using <strong>Beautiful Soap</strong> and <strong>Selenium</strong>.
-- Exploratory Data Analysis using <strong>Pandas</strong>.
-- Data Visualization <strong>Matplotlib</strong> and <strong>Seaborn</strong>.
-- Predictive Analytics/Machine Learning (Supervised/Unsupervised) using <strong>Scikit-Learn</strong> and <strong>PyCaret</strong>.
-- Deep Learning  with <strong>TensorFlow</strong>.
+- Certified <strong>MERN Stack</strong> Developer From SMIT Pakistan.
+- Cisco Certified <strong>python</strong> programmer.
+- Frontend Development using <strong>HTML</strong> <strong>CSS</strong> <strong>JavaScript</strong> <strong>React</strong> and <strong>Nextjs</strong>. 
+- Database using <strong>MongoDb </strong>
 - Amazon Web Service (AWS) using  <strong>Sagemaker</strong>.
-- Backend Development using <strong>Django</strong> and <strong>Flask</strong>. -->
+- Backend Development using <strong>Nodejs</strong> and <strong>Expressjs</strong>. 
 
 
 
