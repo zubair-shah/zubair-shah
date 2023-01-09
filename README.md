@@ -14,14 +14,14 @@
 
 ### About Me 🚀
  <h4>🎓 I’m a Software Engineer enthusiast & MERN Stack Developer pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about computer vision, Web Dev, Machine Learning, Cloud Computing and IoT projects and also always learning new things <h4/>
+👨‍💻  I am passionate about computer vision, Web2 and Web3 Dev, Cloud Computing and Metaverse VR/AR projects and also always passionate about to learn and teach new technologies and leadership <h4/>
 
 
 ### Skills 🎓
 - Certified <strong>MERN Stack</strong> Developer From SMIT Pakistan.
 - Cisco Certified <strong>python</strong> programmer.
 - Frontend Development using <strong>HTML</strong> <strong>CSS</strong> <strong>JavaScript</strong> <strong>React</strong> and <strong>Nextjs</strong>. 
-- Database using <strong>MongoDb </strong>
+- Database using <strong>MongoDb </strong> <strong>Postgres </strong>
 - Amazon Web Service (AWS) using  <strong>Sagemaker</strong>.
 - Backend Development using <strong>Nodejs</strong> and <strong>Expressjs</strong>. 
 
