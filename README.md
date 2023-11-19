@@ -14,7 +14,7 @@
 
 ### About Me 🚀
  <h4>🎓 I’m a Software Engineer enthusiast & MERN Stack Developer pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about computer vision, Web2 and Web3 Dev, Cloud Computing and Metaverse VR/AR projects and also always passionate about to learn and teach new technologies and leadership <h4/>
+👨‍💻  I am passionate about computer vision, Web2 and Web3 Dev, Cloud Computing, and Metaverse VR/AR projects, and also always passionate about learning and teaching new technologies and leadership <h4/>
 
 
 ### Skills 🎓
