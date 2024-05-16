@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi 👋, I'm Zubair Shaikh</h1>
-<h3 align="center">I’m a Software Engineer enthusiast & MERN Stack Developer pursuing my Bachelors in Computer Science & Engineering.</h3>
+<h3 align="center">I’m a Senior Software Engineer  & MERN Stack Developer leading A team of like-minded Developers in Auton8.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubair-shah&label=Profile%20views&color=0e75b6&style=flat" alt="zubair-shah" /> </p>
 
