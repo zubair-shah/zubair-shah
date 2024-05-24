@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Test Automation Product [Auton8](https://auton8.io/)
 
-- 🌱 I’m currently learning **DevOps, Cloud Computing , and deep diving into system design and architecture**
+- 🌱 I’m currently learning **DevOps, Cloud Computing , and Deep Diving into System Design and Architecture**
 
 - 👨‍💻 All of my projects are available at [https://www.zubairshaikh.me/](https://www.zubairshaikh.me/)
 
