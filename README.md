@@ -1,4 +1,4 @@
-[![Stand With Palestine](https://github.com/zubair-shah/stand-with-palestine/blob/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app)
+[![Stand With Palestine](https://github.com/stand-for-humanity/stand-with-palestine/blob/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app)
 
 ## <h1 align="center">Hi 👋, I'm Zubair Shaikh</h1>
 <h3 align="center">I’m a Senior Software Engineer  & MERN Stack Developer leading A team of like-minded Developers in Auton8.</h3>
