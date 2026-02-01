@@ -45,8 +45,8 @@ I’m passionate about bridging **technology + product + architecture**, and I�
 ---
 
 ### 📁 Portfolio & Projects  
-👉 **Portfolio:** https://www.zubairshaikh.me  
-👉 **Resume:** https://www.zubairshaikh.me/zubair.pdf  
+👉 **Portfolio:** https://zubairshaikh.vercel.app/  
+👉 **Resume:** https://zubairshaikh.vercel.app/zubair.pdf  
 
 ---
 
